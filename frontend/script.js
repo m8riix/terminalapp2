@@ -1,6 +1,6 @@
 const OMDB_API_KEY = 'fd161998';
 const TMDB_API_KEY = 'bf99b4e624a319715068fad2ea7e4886';
-const BACKEND_URL = 'http://localhost:3001'; // Change to your deployed backend URL
+const BACKEND_URL = 'terminalapp2.railway.internal'; // Change to your deployed backend URL
 const output = document.getElementById('output');
 const input = document.getElementById('input');
 let commandHistory = [];
